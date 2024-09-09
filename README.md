@@ -1,15 +1,8 @@
 # PythonAlgorithmExamples
-Bu repo, Python programlama dilinde algoritma geliştirme becerilerinizi ilerletmek için oluşturulmuş çeşitli örnekler içerir. Her bir dosya, farklı algoritmaların nasıl çalıştığını gösteren ve pratik yapmanıza olanak tanıyan çözümler sunar.
-İçindekiler
-Temel Algoritmalar: Sıralama, arama, döngüler vb.
-Orta Seviye Algoritmalar: Rekürsiyon, dinamik programlama, veri yapıları.
-İleri Seviye Algoritmalar: Karmaşık problem çözümleri, optimizasyon teknikleri.
-Nasıl Kullanılır?
-Repo'yu bilgisayarınıza klonlayın veya zip dosyası olarak indirin.
-Her dosyayı bağımsız olarak inceleyin ve çalıştırın.
-Kendi algoritma çözümlerinizi ekleyerek repoyu genişletebilirsiniz.
-Katkıda Bulunma
-Bu repo açık kaynak olarak paylaşılmaktadır. Herhangi bir katkı yapmak isterseniz, lütfen bir pull request açın veya sorunları bildirin.
+This repo contains various examples created to advance your algorithm development skills in Python programming language. Each file provides solutions that demonstrate how different algorithms work and allow you to practice. 
+Contents 
+Basic Algorithms: Sorting, searching, loops, etc. 
+Intermediate Algorithms: Recursion, dynamic programming, data structures. 
+Advanced Algorithms: Complex problem solving, optimization techniques. How to Use: Clone the repo to your computer or download it as a zip file. Examine and run each file independently. You can extend the repo by adding your own algorithm solutions. Contribute This repo is shared as open source. If you want to contribute, please open a pull request or report issues.
 
-Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atın.
+License This project is licensed under the MIT License. For more information, see the LICENSE file.
